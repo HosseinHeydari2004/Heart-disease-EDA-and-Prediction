@@ -8,7 +8,6 @@
 
 ## 🔍 Table of Contents
 - [📌 Project Overview](#-project-overview)
-- [📊 Dataset Description](#-dataset-description)
 - [🧠 Technologies & Tools](#-technologies--tools)
 - [🚀 Usage](#-usage)
 - [🎯 Use Cases](#-use-cases)
@@ -26,11 +25,6 @@ The repository is suitable for:
 - Portfolio and resume showcase
 
 ---
-
-## 📊 Dataset Description
-link Dataset: [Karnataka Agriculture Dataset](https://www.kaggle.com/datasets/imtkaggleteam/agriculture-dataset-karnataka)
----
-
 ## 🧠 Technologies & Tools
 
 - 🐍 Python 3
@@ -63,3 +57,4 @@ Computer Science Student | AI & Data Science student
 🔗 GitHub: https://github.com/HosseinHeydari2004/Heart-disease-EDA-and-Prediction
 <br>
 🔗 Kaggle: https://www.kaggle.com/code/mrhosseinheydari/heart-disease-eda
+
