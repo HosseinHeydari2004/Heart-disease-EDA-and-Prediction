@@ -42,7 +42,7 @@ The repository is suitable for:
 This project can be used for the following purposes:
 
 - 📊 Exploratory Data Analysis (EDA)
-- 🌾 Heart data trend analysis
+- ❤️ Heart data trend analysis
 - 🤖 Machine learning model experimentation
 - 📈 Feature engineering practice
 - 📚 Academic assignments and research
@@ -57,4 +57,5 @@ Computer Science Student | AI & Data Science student
 🔗 GitHub: https://github.com/HosseinHeydari2004/Heart-disease-EDA-and-Prediction
 <br>
 🔗 Kaggle: https://www.kaggle.com/code/mrhosseinheydari/heart-disease-eda
+
 
