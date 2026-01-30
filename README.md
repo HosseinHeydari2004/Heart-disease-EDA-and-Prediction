@@ -6,6 +6,12 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
 </p>
 
+<p align="center">
+  <img src="https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2024/11/AdobeStock_321830101-1024x683.jpeg">
+</p>
+
+---
+
 ## 🔍 Table of Contents
 - [📌 Project Overview](#-project-overview)
 - [🧠 Technologies & Tools](#-technologies--tools)
@@ -59,3 +65,4 @@ Computer Science Student | AI & Data Science student
 🔗 Kaggle: https://www.kaggle.com/code/mrhosseinheydari/heart-disease-eda
 
 Thank you for watching.🙏
+
